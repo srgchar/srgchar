@@ -5,7 +5,7 @@ While I am unable to publicly disclose my research findings, I am keen to share 
 During my time there, I acquired a wealth of knowledge in data analytics, mastering various techniques and methodologies. 
 Though the number of projects may be modest, I am committed to continuously enhancing my skills, ensuring that this repository will expand over time.
 
-I hope you find value in my projects. Thank you for your interest. :)
+I hope you find value in the projects housed within my Data Analytics repository (pinned). Thank you for your interest. :)
 
 <!---
 srgchar/srgchar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
