@@ -7,7 +7,6 @@ Though the number of projects may be modest, I am committed to continuously enha
 
 # Languages that I use:
 
-![Alt text]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png])
 
 I hope you find value in the projects housed within my Data Analytics repository (pinned). Thank you for your interest. :)
 
